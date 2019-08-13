@@ -12,7 +12,7 @@ function cuaca(){
 	// Initial ARRAY yang nanti akan dijadikan JSON	
 	$rows = array();
   
-  rint "\\033[0;36m"; // Biru
+print "\\033[0;36m"; // Biru
 print "=================================== \n";
 print " //   ____  _                       \n";
 print " //  /  _ \/ \  /|                  \n";
